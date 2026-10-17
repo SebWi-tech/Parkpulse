@@ -29,3 +29,13 @@ Implementation and test results will be documented as work progresses.
 
 ## Team
 Ibrahim Bouhaja, Iliana Dimitrova and Sebastian Witte
+
+text
+## Project documentation
+
+- [Requirements and MoSCoW](docs/requirements.md)
+- [Use cases](docs/use-cases.md)
+- [Process diagrams](docs/diagrams.md)
+- [Competitor analysis](docs/competitor-analysis.md)
+- [Acceptance tests](docs/test-cases.md)
+- [Sources](docs/sources.md)
